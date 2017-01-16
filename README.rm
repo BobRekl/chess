@@ -1,0 +1,19 @@
+Chess plays chess
+
+You may have to adjust your security settings to download this game.  Chess is written 
+in JAVA and requires your computer to have JAVA installed before it can run.  Windows based computers 
+come with JAVA installed.  Mac computers may not have JAVA installed. You can install JAVA from the 
+https://java.com/en/download/ website. 
+
+To download chess from https://github.com/BobRekl 
+1) Open "chess" by clicking on it.
+2) Press "Clone or Download".  In the popup menu that opens press "Download zip".
+3) In your computer's "Downloads" folder extract the files from "chess-master.zip".
+4) Open "chess-master" and copy the enclosed "chess" folder. 
+5) Paste "chess" somewhere convenient in your computer's file system.
+6) To play chess double click on the "Chess.jar" file in the "chess" folder 
+or make a shortcut to it and click on that.
+7) In Windows you can change the icon on the shortcut. Use the icon in the "icon.ico" file.  Right 
+click on your shortcut and open "Properties". Click on "Change Icon".  Navigate to the "icon.ico" file 
+and select it.
+
